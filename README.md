@@ -18,8 +18,8 @@ This project implements an asyncio-based SSL client for interacting with a custo
 
 ```bash
 # Clone repository or download script
-git clone <your_repo_url>
-cd <your_project_directory>
+git clone https://github.com/sathiya1987/Exasol-assignment.git
+cd Exasol-assignment
 
 # (Optional) Create a virtual environment
 python3 -m venv venv
